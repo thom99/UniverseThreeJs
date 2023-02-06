@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.container {
+  height: 100vh;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+.text_container {
+  height: 50vh;
+  width: 100%;
+}
+
+.sphere_container {
+  height: 50vh;
+  width: 100%;
+}
